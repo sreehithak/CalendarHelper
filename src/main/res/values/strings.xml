@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Calendar Helper</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Courses</string>
+    <string name="menu_gallery">Assignments</string>
+    <string name="menu_slideshow">To-Do List</string>
+    <string name="calendar_n_helper">Calendar \n Helper</string>
+    <string name="exams">Exams</string>
+    <string name="classNameEditTextHint">Course Name</string>
+    <string name="classTimeEditTextHint">Time</string>
+    <string name="classInstructorEditTextHint">Instructor</string>
+    <string name="examTimeEditTextHint">Date/Time</string>
+    <string name="examLocationEditTextHint">Location</string>
+    <string name="examNameEditTextHint">Exam Name</string>
+    <string name="taskEditTextHint">To-Do Task</string>
+    <string name="descriptionEditTextHint">Short Description</string>
+    <string-array name="sorting_options">
+        <item>Select Sorting Option</item>
+        <item>Sort by Due Date</item>
+        <item>Sort by Course</item>
+    </string-array>
+</resources>
